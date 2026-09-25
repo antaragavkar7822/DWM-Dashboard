@@ -1,0 +1,41 @@
+product_key,product_id,product_name,category_name,brand,price,cost,quantity
+1,1,T-Shirt,Clothing,Walmart,1810.89,1465.29,0
+2,2,Jeans,Clothing,Samsung,3061.98,2240.46,0
+3,3,Jacket,Clothing,Apple,1046.07,663.54,0
+4,4,Sneakers,Clothing,Nike,703.29,555.99,0
+5,5,Dress,Clothing,Puma,2603.90,1967.97,0
+6,6,Hoodie,Clothing,Nestle,572.05,465.29,0
+7,7,Shirt,Clothing,L'Oreal,3413.55,2207.59,0
+8,8,Track Pants,Clothing,Sony,1136.39,727.68,0
+9,9,Rice,Groceries,Walmart,278.18,199.02,0
+10,10,Wheat Flour,Groceries,Samsung,373.96,248.33,0
+11,11,Cooking Oil,Groceries,Apple,508.89,320.95,0
+12,12,Sugar,Groceries,Nike,269.11,183.16,0
+13,13,Biscuits,Groceries,Puma,392.05,302.95,0
+14,14,Tea,Groceries,Nestle,199.76,142.45,0
+15,15,Coffee,Groceries,L'Oreal,494.31,301.64,0
+16,16,Pasta,Groceries,Sony,505.66,322.37,0
+17,17,Smartphone,Electronics,Walmart,4838.04,3912.79,0
+18,18,Laptop,Electronics,Samsung,57972.29,45093.60,0
+19,19,Headphones,Electronics,Apple,18972.21,11791.00,0
+20,20,Smart Watch,Electronics,Nike,41369.75,28827.83,0
+21,21,Tablet,Electronics,Puma,8200.26,5813.48,0
+22,22,Keyboard,Electronics,Nestle,3028.92,2423.29,0
+23,23,Mouse,Electronics,L'Oreal,16268.02,12131.95,0
+24,24,Speaker,Electronics,Sony,19390.95,13853.19,0
+25,25,Mixer,Home & Kitchen,Walmart,2914.87,1867.46,0
+26,26,Cookware Set,Home & Kitchen,Samsung,4860.09,3744.84,0
+27,27,Dinner Set,Home & Kitchen,Apple,4721.70,3762.54,0
+28,28,Toaster,Home & Kitchen,Nike,3150.34,2529.13,0
+29,29,Kettle,Home & Kitchen,Puma,807.07,519.04,0
+30,30,Bedsheet,Home & Kitchen,Nestle,608.05,408.35,0
+31,31,Curtains,Home & Kitchen,L'Oreal,2187.92,1443.36,0
+32,32,Storage Box,Home & Kitchen,Sony,4212.19,2857.91,0
+33,33,Face Wash,Beauty,Walmart,529.26,380.75,0
+34,34,Shampoo,Beauty,Samsung,340.25,264.20,0
+35,35,Conditioner,Beauty,Apple,250.64,204.80,0
+36,36,Moisturizer,Beauty,Nike,1192.53,767.65,0
+37,37,Perfume,Beauty,Puma,157.45,122.72,0
+38,38,Lipstick,Beauty,Nestle,1104.26,839.66,0
+39,39,Sunscreen,Beauty,L'Oreal,1191.21,734.13,0
+40,40,Body Lotion,Beauty,Sony,633.93,396.52,0
